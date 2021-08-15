@@ -1,5 +1,9 @@
 # IAT_Analyzer
-<p> Usage: iat.py -i file name </p>
+### Requirements:
+<p> pip install pefile
+
+### Usage: 
+<p> iat.py -i file name </p>
 
  ![Screenshot](IAT.png)
   
